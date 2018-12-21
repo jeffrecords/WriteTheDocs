@@ -1,0 +1,86 @@
+Training
+•	SANS
+  o	SEC455: SIEM Design & Implementation
+  o	SEC440: Critical Security Controls: Planning, Implementing, and Auditing
+  o	SEC501: Advanced Security Essentials - Enterprise Defender
+  o	FOR500: Windows Forensic Analysis
+  o	FOR610: Reverse-Engineering Malware: Malware Analysis Tools and Techniques
+  o	FOR508: Advanced Digital Forensics, Incident Response, and Threat Hunting
+  o	FOR572: Advanced Network Forensics: Threat Hunting, Analysis, and Incident Response
+  o	MGT512: SANS Security Leadership Essentials For Managers with Knowledge Compression™
+•	Docker
+  o	Docker for Enterprise Operations  
+  o	Docker Security  
+
+Certifications
+•		CISSP
+•		Sec+
+•		OSCP
+•		OSCE
+•		GCIH
+
+Services/Providers
+•	EL-ISAC 
+o	Albert - $ based service monitoring IDS reporting
+o	MSS - $ based monitoring 24/7, event analysis, notifications 
+•	WaTech
+•	SANS
+•	Microsoft
+•	KnowBe4
+•	Varonis
+
+Endpoints
+•	OS
+•	AV
+•	Standard Applications
+•	Vuln management
+•	Patch management
+•	Hardware
+•	JAMF
+•	
+
+
+Network
+•	Firewalls
+•	IPS/IDS
+•	Proxy
+•	DLP
+•	Radius
+•	NAC
+•	VulnScan
+•	Wireless
+•	ExtraHop
+•	Packet Capture
+•	SIEM
+•	SOAR – Security Orchestration and Automated Response
+
+Servers
+•	OS
+•	AV
+•	Standard Applications
+•	Vuln management
+•	Patch management
+•	Hardware
+
+Users
+•	Standard Accounts
+•	Elevated Accounts
+•	PAM
+•	2FA
+•	Password Manager
+•	Awareness Training
+•	Communication methods
+•	
+
+Data
+•	Varonis/Auditing
+•	DLP
+•	Adaptive Access
+•	Categorization
+•	Segmentation
+
+Software
+•	
+
+
+		
